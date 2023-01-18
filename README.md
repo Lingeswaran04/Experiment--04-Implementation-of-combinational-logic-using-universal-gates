@@ -31,13 +31,29 @@ F=(((C.B'.A)+(D.C'.A)+(C.B'.A))')'
 ## Program:
 /*
 Program to implement the given logic function using NAND and NOR gates and to verify its operations in quartus using Verilog programming.
-Developed by: 
-RegisterNumber:  
+Developed by:lingeswaran k
+RegisterNumber:22005148
 */
 ## RTL realization
 
 ## Output:
+NAND
 ## RTL
+![image](https://user-images.githubusercontent.com/119103865/213094591-e5db02b5-8f70-4ad8-94f7-4e90d80c338f.png)
+
 ## Timing Diagram
+![image](https://user-images.githubusercontent.com/119103865/213094618-e240f4e9-cd51-4b3b-8a6c-14c6f210422d.png)
+
+## Truth table
+![image](https://user-images.githubusercontent.com/119103865/213094778-1315b5b9-7769-4abe-b7a5-9bbf8d76d2ab.png)
+
+NOR
+RTL
+![image](https://user-images.githubusercontent.com/119103865/213094866-088a0d90-7745-4320-b6f0-92de9f9c663a.png)
+Timing diagram
+![image](https://user-images.githubusercontent.com/119103865/213094936-5019b34d-af59-4a8a-9ba2-e60b1162d268.png)
+Truth table
+![image](https://user-images.githubusercontent.com/119103865/213094972-30d485e7-f15a-45a4-90d0-e242e8a284fc.png)
+
 ## Result:
 Thus the given logic functions are implemented using NAND and NOR gates and their operations are verified using Verilog programming.
